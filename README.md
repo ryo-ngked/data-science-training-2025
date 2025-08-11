@@ -9,7 +9,7 @@ The goal is to complete a 4-week training program and apply the knowledge to a m
 1. work directly on GitHub.
 2. Go to your folder under `/your_name/`.
 3. Use the provided progress memo template(/yourname/README.md) to track your learning.
-4. Upload your notebooks under `notebooks/` and any project work under `projects/`.
+4. Upload your notebooks under `yourname/`.
 5. Update your progress at least once a week.
 
 ## 📌 Week 1: Python Basics
