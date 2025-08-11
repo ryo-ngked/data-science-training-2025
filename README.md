@@ -12,6 +12,16 @@ The goal is to complete a 4-week training program and apply the knowledge to a m
 4. Upload your notebooks under `yourname/`.
 5. Update your progress at least once a week.
 
+## 💬 Communication
+
+We’ve created a Microsoft Teams group for this training program.  
+Feel free to use it to:
+- Share your progress or mini project updates  
+- Ask questions or get help  
+- Exchange tips and ideas with others  
+
+Let’s keep the conversation active and supportive!
+
 ## 🎯 Final Goal (Week 4)
 
 By the end of Week 4, each participant will complete a **mini data project** using real-world datasets.  
