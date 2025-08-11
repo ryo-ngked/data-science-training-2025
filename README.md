@@ -1,7 +1,7 @@
 # data-science-training-2025
 ## 🎯 Purpose
 
-This repository is for non-engineer team members to build practical data science skills using free Kaggle courses.  
+This repository is for engineer team members to build practical data science skills using free Kaggle courses.  
 The goal is to complete a 4-week training program and apply the knowledge to a mini project by the end of Week 4.
 
 ## 💬 Communication
