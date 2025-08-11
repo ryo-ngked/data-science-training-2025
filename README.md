@@ -4,14 +4,6 @@
 This repository is for non-engineer team members to build practical data science skills using free Kaggle courses.  
 The goal is to complete a 4-week training program and apply the knowledge to a mini project by the end of Week 4.
 
-## 👥 How to Participate
-
-1. work directly on GitHub.
-2. Go to your folder under `/your_name/`.
-3. Use the provided progress memo template(/yourname/README.md) to track your learning.
-4. Upload your notebooks under `yourname/`.
-5. Update your progress at least once a week.
-
 ## 💬 Communication
 
 We’ve created a Microsoft Teams group for this training program.  
@@ -21,6 +13,16 @@ Feel free to use it to:
 - Exchange tips and ideas with others  
 
 Let’s keep the conversation active and supportive!
+
+## 📚 How to Participate & Learning Flow
+
+This is a self-paced program using Kaggle and GitHub.
+
+1. Work through the Kaggle courses at your own pace.
+2. After completing a course or lesson, upload your Jupyter Notebook (`.ipynb`) to your folder in this repository.
+3. At the end of each week, write a short progress memo in your `yourname/README.md` file to reflect on your learning.
+4. If you have questions or run into issues, use the **Teams group** to ask for help or share tips.
+5. Collaborate, support each other, and enjoy the learning process!
 
 ## 🎯 Final Goal (Week 4)
 
