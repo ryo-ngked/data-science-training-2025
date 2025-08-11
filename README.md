@@ -12,6 +12,18 @@ The goal is to complete a 4-week training program and apply the knowledge to a m
 4. Upload your notebooks under `yourname/`.
 5. Update your progress at least once a week.
 
+## 🎯 Final Goal (Week 4)
+
+By the end of Week 4, each participant will complete a **mini data project** using real-world datasets.  
+The project should demonstrate the ability to:
+- Load and clean data using Pandas
+- Visualize key insights
+- Apply basic feature engineering
+- Communicate findings clearly in a Jupyter Notebook
+
+You can choose a dataset from Kaggle or use one provided in the repository.  
+The final notebook should be uploaded to your folder and will be reviewed during the final session.
+
 ## 📌 Week 1: Python Basics
 
 Learn variables, loops, conditions, functions  
