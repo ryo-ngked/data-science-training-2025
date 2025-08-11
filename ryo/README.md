@@ -1,4 +1,4 @@
-## Progress Log (YYYY-MM-DD)
+## Weekly Progress Log (YYYY-MM-DD)
 
 **Study Time**: X hours  
 **Material Covered**: Kaggle course - [Course Name], Lesson X  
