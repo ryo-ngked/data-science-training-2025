@@ -21,8 +21,9 @@ This is a self-paced program using Kaggle and GitHub.
 1. Work through the Kaggle courses at your own pace.
 2. After completing a course or lesson, upload your Jupyter Notebook (`.ipynb`) to your folder in this repository.
 3. At the end of each week, write a short progress memo in your `yourname/README.md` file to reflect on your learning.
-4. If you have questions or run into issues, use the **Teams group** to ask for help or share tips.
-5. Collaborate, support each other, and enjoy the learning process!
+
+> If you have questions or run into issues, use the **Teams group** to ask for help or share tips.  
+> Collaborate, support each other, and enjoy the learning process!
 
 ## 🎯 Final Goal (Week 4)
 
