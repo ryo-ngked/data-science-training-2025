@@ -33,7 +33,7 @@ def count_ipynb_files(path):
 
     count = 0
     for item in contents:
-        if item["type"] == "dir":
+        if item["type"] == "dir" and item["name"] != ".github":
             # If it's a folder, count recursively
             count += count_ipynb_files(item["path"])
         elif item["type"] == "file" and item["name"].endswith(".ipynb"):
