@@ -35,9 +35,15 @@ jobs:
           REPO_NAME: ${{ github.event.repository.name }}
         run: python generate_progress_chart.py
       
+      - name: Update README cache busting query
+        run: |
+          DATE=$(date +%Y%m%d%H%M%S)
+          sed -i "s/progress_chart\.png?v=[0-9]*/progress_chart.png?v=$DATE/" README.md
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Automated: Update learning progress chart"
-          file_pattern: 'progress_chart.png'
+          file_pattern: 'README.md progress_chart.png'
           commit_options: '--no-verify'
+
