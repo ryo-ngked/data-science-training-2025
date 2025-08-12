@@ -86,8 +86,8 @@ if __name__ == "__main__":
         plt.title("Number of ipynb files by Member")
         plt.xticks(rotation=45)
         plt.tight_layout()
-        plt.savefig("member_ipynb_count.png")
-        print("\nBar graph saved as 'member_ipynb_count.png'.")
+        plt.savefig("progress_chart.png")
+        print("\nBar graph saved as 'progress_chrt.png'.")
     except requests.exceptions.HTTPError as e:
         print(f"An error occurred: {e}")
         print("Please check if the token, repository name, and owner name are correct.")
