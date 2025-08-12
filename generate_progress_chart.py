@@ -85,7 +85,7 @@ if __name__ == "__main__":
         plt.ylabel("Number of ipynb files")
         plt.title("Number of ipynb files by Member")
         plt.xticks(rotation=45)
-                for y, label in zip([12, 18, 31, 37], ["week1", "week2", "week3", "week4"]):
+        for y, label in zip([12, 18, 31, 37], ["week1", "week2", "week3", "week4"]):
             plt.axhline(y=y, color="gray", linestyle="--", linewidth=1)
             plt.text(
                 len(members) - 0.5,
