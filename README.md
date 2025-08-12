@@ -1,4 +1,8 @@
 # data-science-training-2025
+
+## Learning Progress Chart
+<img src="progress_chart.png" width="600">
+
 ## 🎯 Purpose
 
 This repository is for engineer team members to build practical data science skills using free Kaggle courses.  
