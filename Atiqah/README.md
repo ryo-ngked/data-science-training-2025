@@ -10,8 +10,8 @@
 - A colon symbol indicate the block of code start there and all the indented line belong to it.
   
 **Challenges Faced**:
-- 
-- 
+- Not familiar with the terms
+- Still confuse about the bracket type
 
 **Next Steps**:
 - Move on to Lesson 4 and 5
