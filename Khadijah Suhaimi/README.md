@@ -1,6 +1,6 @@
 ## Weekly Progress Log (YYYY-MM-DD)
 
-**Study Time**: 6 hours  
+**Study Time**: 5 hours  
 **Material Covered**: Kaggle course - [Introduction to phyton], Lesson 1-5  
 **What I Learned**:
 - [how to call a function, how to name a function,]
