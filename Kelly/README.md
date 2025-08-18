@@ -9,10 +9,11 @@
 - Learn from zero thus it's very challenging to understand all the terms
 - Cannot complete it without the hints
 - Always stuck at one step due to simple error, need time to try and error
+- Too compact for 1 week to include all the topics
 
 **Next Steps**:
 - Need to slow down and understand each tutorials
-- [e.g., Practice more with `if` statements]
+  
 
 **Questions / Help Needed**:
 - [e.g., Not sure how function arguments work. Any tips or resources?]
