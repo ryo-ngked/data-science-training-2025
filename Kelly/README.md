@@ -1,17 +1,17 @@
 ## Weekly Progress Log (YYYY-MM-DD)
 
-**Study Time**: X hours  
-**Material Covered**: Kaggle course - [Course Name], Lesson X  
+**Study Time**: 5 hours  
+**Material Covered**: Kaggle course - [Course Name], Lesson Intro to programming
 **What I Learned**:
-- [e.g., Difference between lists and dictionaries]
-- [e.g., How to use the `print()` function]
+- Basic programming terms
 
 **Challenges Faced**:
-- [e.g., Nested `for` loops are still confusing]
-- [e.g., Got a `NameError` due to a typo]
+- Learn from zero thus it's very challenging to understand all the terms
+- Cannot complete it without the hints
+- Always stuck at one step due to simple error, need time to try and error
 
 **Next Steps**:
-- [e.g., Move on to Lesson X: Conditional Statements]
+- Need to slow down and understand each tutorials
 - [e.g., Practice more with `if` statements]
 
 **Questions / Help Needed**:
