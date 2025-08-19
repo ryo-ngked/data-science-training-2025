@@ -1,3 +1,25 @@
+## Weekly Progress Log (2025-08-18)
+
+**Study Time**: 10 hours  
+**Material Covered**: Kaggle course - [Hello, Phyton], Lesson 4, 5 and 6.
+**What I Learned**:
+- I learned indexing, slicing, changing the list.
+- how to call a function such as len, sorted, sum, max, min
+- differences between list and tuple
+- difference between for loop and while loop
+- string and string method
+  
+**Challenges Faced**:
+- there are a lot built-in method and function that i don't know when to apply in the code
+- the exercise is too challenging for me as a beginner
+
+**Next Steps**:
+- To restudy the whole lesson to improve my undertanding
+
+**Questions / Help Needed**:
+- Is there any trick or tips that can make me know when to apply certain function or method
+
+
 ## Weekly Progress Log (2025-08-17)
 
 **Study Time**: 5 hours  
@@ -15,7 +37,7 @@
 - The tutorial given is more simple and straightforward but the exercise is more complex and confusing for beginner like me
 
 **Next Steps**:
-- Move on to Lesson 4 and 5
+- Move on to next Lesson.
 
 **Questions / Help Needed**:
 - I need to understand all the terms, functions, and symbol.
