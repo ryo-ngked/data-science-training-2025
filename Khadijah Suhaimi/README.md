@@ -1,6 +1,6 @@
 ## Weekly Progress Log (YYYY-MM-DD)
 
-**Study Time**: 5 hours  
+**Study Time**: 10 hours  
 **Material Covered**: Kaggle course - [Introduction to phyton], Lesson 1-5  
 **What I Learned**:
 - [how to call a function, how to name a function,]
@@ -8,9 +8,10 @@
 - [remove and adding functions]
 
 **Challenges Faced**:
-- [I tried many times to figure out the coding for the answer. Some i am able to get the correct answer after clicking hint.For harder question, i straight away ask for solution]
+- [I tried many times to figure out the coding for the answer. Some i am able to get the correct answer after clicking hint. For harder question, i straight away ask for solution. I get some input from the solution]
 - [For lessons 4, question 5,i dont understand where to write the answer]
 - [1 week for all lessons is challenging]
+- [ I am so unfamilliar with coding. So, I find it very challenging]
 
 **Next Steps**:
 - [Move to next lesson]
