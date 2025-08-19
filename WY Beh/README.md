@@ -1,6 +1,6 @@
-## Weekly Progress Log (2025-08-12)
+## Weekly Progress Log (2025-08-19)
 
-**Study Time**: X hours  
+**Study Time**: 15 hours  
 **Material Covered**: Kaggle course - [Course Name], Lesson X  
 **What I Learned**:
 - [e.g., Difference between lists and dictionaries]
