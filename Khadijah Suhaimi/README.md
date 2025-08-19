@@ -10,6 +10,7 @@
 **Challenges Faced**:
 - [I tried many times to figure out the coding for the answer. Some i am able to get the correct answer after clicking hint.For harder question, i straight away ask for solution]
 - [For lessons 4, question 5,i dont understand where to write the answer]
+- [1 week for all lessons is challenging]
 
 **Next Steps**:
 - [Move to next lesson]
