@@ -1,9 +1,9 @@
 ## Weekly Progress Log (2025-08-19)
 
 **Study Time**: 4 hours  
-**Material Covered**: Kaggle course - [Intro to Programming], Lesson 4 and 5 (Connditions and Conditional Statement, Intro to Lists)
+**Material Covered**: Kaggle course - [Intro to Programming], Lesson 4 and 5 (Connditions and Conditional Statement, Intro to Lists)  
 **What I Learned**:
-- [How to write a 'Conditions']
+- [How to write a 'Conditions' and 'Conditional Statement' using 'if', 'if...else', 'if...elif...else'statement]
 - [What is 'Lists']
 
 **Challenges Faced**:
@@ -14,14 +14,13 @@
 - [Move to [Python] course]
 
 **Questions / Help Needed**:
--
 
 
 
 ## Weekly Progress Log (2025-08-15)
 
 **Study Time**: 3 hours  
-**Material Covered**: Kaggle course - [Intro to Programming], Lesson 2 and 3 (Function, Data Types)
+**Material Covered**: Kaggle course - [Intro to Programming], Lesson 2 and 3 (Function, Data Types)  
 **What I Learned**:
 - [How to write a 'Functions', what is the header and body]
 - [Determine the data types and understand the data types]
@@ -33,26 +32,23 @@
 - [Move on to Lesson 4 and 5: Conditions and Conditional Statement, Intro to Lists]
 
 **Questions / Help Needed**:
-- 
 
 
 
 ## Weekly Progress Log (2025-08-14)
 
-**Study Time**: 1 hours  
-**Material Covered**: Kaggle course - [Intro to Programming], Lesson 1 ( Arithmetic and Variables)
+**Study Time**: 1 hour  
+**Material Covered**: Kaggle course - [Intro to Programming], Lesson 1 ( Arithmetic and Variables)  
 **What I Learned**:
 - [What is arithmetric and variable]
 - [How to use the `print()` function]
 
 **Challenges Faced**:
--
 
 **Next Steps**:
 - [Move to Lesson 2 and 3: Function, Data Types]
 
 **Questions / Help Needed**:
-- 
 
 
 
