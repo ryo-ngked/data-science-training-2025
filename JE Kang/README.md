@@ -1,7 +1,7 @@
 ## Weekly Progress Log (2025-08-19)
 
-**Study Time**: 5 hours  
-**Material Covered**: Kaggle course - [Course Name], Lesson X  
+**Study Time**: 10 hours  
+**Material Covered**: Kaggle course - [Intro to Programming & Python], Lesson X  
 **What I Learned**:
 - Basics of programming, create codes, etc
 - Various type of coding to perform calculations, list, booleans, and so on
