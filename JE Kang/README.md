@@ -1,18 +1,18 @@
-## Weekly Progress Log (YYYY-MM-DD)
+## Weekly Progress Log (2025-08-19)
 
-**Study Time**: X hours  
+**Study Time**: 5 hours  
 **Material Covered**: Kaggle course - [Course Name], Lesson X  
 **What I Learned**:
-- [e.g., Difference between lists and dictionaries]
-- [e.g., How to use the `print()` function]
+- Basics of programming, create codes, etc
+- Various type of coding to perform calculations, list, booleans, and so on
 
 **Challenges Faced**:
-- [e.g., Nested `for` loops are still confusing]
-- [e.g., Got a `NameError` due to a typo]
+- Need to refer solution 
+- Cannot think out the coding by myself
 
 **Next Steps**:
-- [e.g., Move on to Lesson X: Conditional Statements]
-- [e.g., Practice more with `if` statements]
+- Need to improve for the logic of programming
+- Practice and understanding the coding 
 
 **Questions / Help Needed**:
-- [e.g., Not sure how function arguments work. Any tips or resources?]
+- So far ok
