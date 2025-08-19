@@ -1,18 +1,18 @@
 ## Weekly Progress Log (2025-08-12)
 
 **Study Time**: 1 hours  
-**Material Covered**: Kaggle course - Intro to programming, Lesson X  
+**Material Covered**: Kaggle course - Intro to programming, Python, All leason 
 **What I Learned**:
 - [e.g., Data types]
 - [e.g., Data types: Integers, float]
 
 **Challenges Faced**:
-- [e.g., Nested `for` loops are still confusing]
+- 
 - [e.g., Got a `NameError` due to a typo]
 
 **Next Steps**:
-- [e.g., Move on to Lesson X: Conditional Statements]
-- [e.g., Practice more with `if` statements]
+- Need to familiar with it
+- Digest it well
 
 **Questions / Help Needed**:
 - [e.g., Not sure how function arguments work. Any tips or resources?]
