@@ -11,7 +11,8 @@
   
 **Challenges Faced**:
 - Not familiar with the terms
-- Still confuse about the bracket type
+- Still confuse about the bracket type.
+- The tutorial given is more simple and straightforward but the exercise is more complex and confusing
 
 **Next Steps**:
 - Move on to Lesson 4 and 5
