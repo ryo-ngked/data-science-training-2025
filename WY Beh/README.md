@@ -1,21 +1,23 @@
 ## Weekly Progress Log (2025-08-19)
 
 **Study Time**: 15 hours  
-**Material Covered**: Kaggle course - [Course Name], Lesson X  
+**Material Covered**: Kaggle course - Intro to programming (Lesson 1-5), Python (Lesson 1-7)
+                      
 **What I Learned**:
-- [e.g., Difference between lists and dictionaries]
-- [e.g., How to use the `print()` function]
+- Basic command of python such as print, return, sorting etc
+- 
 
 **Challenges Faced**:
-- [e.g., Nested `for` loops are still confusing]
-- [e.g., Got a `NameError` due to a typo]
+- Not sure how to debug
+- Only can remember simple command
+- Cannot understand the questions and solutions
 
 **Next Steps**:
-- [e.g., Move on to Lesson X: Conditional Statements]
-- [e.g., Practice more with `if` statements]
+- Move to 2nd week lessons
+- 
 
 **Questions / Help Needed**:
-- [e.g., Not sure how function arguments work. Any tips or resources?]
+- 
 
 
 ## Weekly Progress Log (YYYY-MM-DD)
