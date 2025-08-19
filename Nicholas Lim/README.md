@@ -1,21 +1,20 @@
 ## Weekly Progress Log (2025-08-12)
 
-**Study Time**: 1 hours  
+**Study Time**: 26 hours  
 **Material Covered**: Kaggle course - Intro to programming, Python, All leason 
 **What I Learned**:
 - [e.g., Data types]
 - [e.g., Data types: Integers, float]
 
 **Challenges Faced**:
-- 
-- [e.g., Got a `NameError` due to a typo]
+- No idea how to start after reading the question.
+- The question are complicated and not easy for beginner level.
 
 **Next Steps**:
-- Need to familiar with it
-- Digest it well
+- Need to familiar with it and digest it well.
 
 **Questions / Help Needed**:
-- [e.g., Not sure how function arguments work. Any tips or resources?]
+-
 
 
 
