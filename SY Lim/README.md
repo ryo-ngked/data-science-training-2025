@@ -3,18 +3,18 @@
 **Study Time**: 4 hours  
 **Material Covered**: Kaggle course - [Intro to Programming], Lesson 4 and 5 (Conndition and Conditional Statement, Intro to Lists)
 **What I Learned**:
-- [e.g., Difference between lists and dictionaries]
-- [e.g., How to use the `print()` function]
+- []
+- []
 
 **Challenges Faced**:
-- [e.g., Nested `for` loops are still confusing]
-- [e.g., Got a `NameError` due to a typo]
+- []
+- []
 
 **Next Steps**:
 - [Move to [Python] course]
 
 **Questions / Help Needed**:
-- [e.g., Not sure how function arguments work. Any tips or resources?]
+- []
 
 
 
@@ -36,6 +36,8 @@
 - []
 
 
+
+## Weekly Progress Log (2025-08-14)
 
 **Study Time**: 1 hours  
 **Material Covered**: Kaggle course - [Intro to Programming], Lesson 1 ( Arithmetic and Variables)
