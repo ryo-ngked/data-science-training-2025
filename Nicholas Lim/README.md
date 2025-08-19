@@ -1,10 +1,10 @@
 ## Weekly Progress Log (2025-08-12)
 
 **Study Time**: 1 hours  
-**Material Covered**: Kaggle course - [Course Name], Lesson X  
+**Material Covered**: Kaggle course - Intro to programming, Lesson X  
 **What I Learned**:
-- [e.g., Difference between lists and dictionaries]
-- [e.g., How to use the `print()` function]
+- [e.g., Data types]
+- [e.g., Data types: Integers, float]
 
 **Challenges Faced**:
 - [e.g., Nested `for` loops are still confusing]
