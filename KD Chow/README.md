@@ -1,6 +1,6 @@
 ## Weekly Progress Log (2025-08-12)
 
-**Study Time**: 10 hours  
+**Study Time**: 7 hours  
 **Material Covered**: Kaggle course - [Course Name], Lesson X  
 **What I Learned**:
 A few functions in python
