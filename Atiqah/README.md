@@ -1,3 +1,22 @@
+## Weekly Progress Log (2025-08-21)
+
+**Study Time**: 10 hours  
+**Material Covered**: Kaggle course - [Pandas], Lesson 1
+**What I Learned**:
+- how to create data set into table using DataFrame (2 labelled structure) and Series (1 labelled structure)
+- how to import and export data csv file
+  
+**Challenges Faced**:
+- 
+
+**Next Steps**:
+- 
+
+**Questions / Help Needed**:
+- 
+
+
+
 ## Weekly Progress Log (2025-08-18)
 
 **Study Time**: 10 hours  
