@@ -1,3 +1,20 @@
+## Weekly Progress Log (2025-08-24)
+
+**Study Time**: 6 hours  
+**Material Covered**: Kaggle course - [Python], Lesson 1 to 7  
+**What I Learned**:
+- [All from the chapter of [Intro to Programming] but more advance]
+
+**Challenges Faced**:
+- [Even have solution but I still don't really understand how to solve it]
+
+**Next Steps**:
+- [Move to [Intro to Machine Learning] course]
+
+**Questions / Help Needed**:
+
+
+
 ## Weekly Progress Log (2025-08-19)
 
 **Study Time**: 4 hours  
@@ -7,8 +24,7 @@
 - [What is 'Lists']
 
 **Challenges Faced**:
-- 
-- 
+- [Don't know how to apply "Lists" in coding like what kwyword should be write in 'print()' function]
 
 **Next Steps**:
 - [Move to [Python] course]
