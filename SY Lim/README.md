@@ -1,3 +1,20 @@
+## Weekly Progress Log (2025-08-30)
+
+**Study Time**: 8 hours  
+**Material Covered**: Kaggle course - [Pandas], Lesson 1 to 6  
+**What I Learned**:
+- [All from the chapter of [Pandas]]
+
+**Challenges Faced**:
+- [Some questions are tricky, need spend more time to solve it]
+
+**Next Steps**:
+- [Move to [Data Visualization] and [Data Cleaning] course]
+
+**Questions / Help Needed**:
+
+
+
 ## Weekly Progress Log (2025-08-24)
 
 **Study Time**: 8 hours  
@@ -9,7 +26,7 @@
 - [Even have solution but I still don't really understand how to solve it]
 
 **Next Steps**:
-- [Move to [Intro to Machine Learning] course]
+- [Move to [Pandas] course]
 
 **Questions / Help Needed**:
 
