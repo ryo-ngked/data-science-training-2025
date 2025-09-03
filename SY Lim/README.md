@@ -1,4 +1,4 @@
-## Weekly Progress Log (2025-08-30)
+## Weekly Progress Log (2025-08-31)
 
 **Study Time**: 8 hours  
 **Material Covered**: Kaggle course - [Pandas], Lesson 1 to 6  
